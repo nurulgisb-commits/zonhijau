@@ -1,0 +1,4 @@
+Letak fail gambar di sini dengan nama tepat:
+- slaid-1.jpg  (gambar latar slaid header)
+- poster-1.jpg (poster hebahan)
+Nama dan sambungan (.jpg) mesti sama. Jika fail PNG, tukar nama sambungan atau beritahu Claude.
